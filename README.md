@@ -1,0 +1,1 @@
+RNA-seq analysis of mouse colonic tissues, including differential expression, functional enrichment, and inflammatory pathway analyses, to investigate the protective mechanisms of ZnCA nanoparticles against DSS-induced colitis.
