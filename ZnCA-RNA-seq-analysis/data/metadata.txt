@@ -1,0 +1,10 @@
+SampleID	Group
+Con_1	Con
+Con_2	Con
+Con_3	Con
+DSS_1	DSS
+DSS_2	DSS
+DSS_3	DSS
+ZCA_1	ZCA
+ZCA_2	ZCA
+ZCA_3	ZCA
